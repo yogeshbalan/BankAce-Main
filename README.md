@@ -2,7 +2,7 @@ BankAce-Main
 ============
 
 ICICI-Trinity Project
-
-Developer - Yogesh balan, Arun Dudeja
-Graphics designer - Jai Sharma https://github.com/grilledPhoenix
-Project coordinator - Pranay Bhardwaj
+<br/> <br/>
+Developers - Yogesh balan, Arun Dudeja<br/> <br/>
+Graphics designer - Jai Sharma https://github.com/grilledPhoenix<br/> <br/>
+Project coordinator - Pranay Bhardwaj<br/> <br/>
